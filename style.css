@@ -13,6 +13,7 @@ body{
     flex-basis: calc(33% -6rem);
     }
     .cartao__conteudo {
+    background-color: var(--card-front-color);
     text-align: center;
     height: 100%;
     }
