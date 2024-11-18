@@ -1,35 +1,35 @@
 criaCartao(
-    'Conhecimento gerais',
+    'CONHECIMENTOS GERAIS',
     'De quem é a famosa frase “Penso, logo existo”?',
-    'O Descartes'
+    'Descartes.'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'QUÍMICA',
+    'Atualmente, quantos elementos químicos a tabela periódica possui?',
+    '118'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'PORTUGUÊS',
+    'Qual é o plural de "coração"?',
+    'Corações.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'ARTE',
+    'Quem pintou a obra "A Última Ceia?',
+    'Leonardo da Vinci.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'BIOLOGIA',
+    'Qual a função dos ribossomos  na célula?',
+    'Produzir proteínas.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'MATEMÁTICA',
+    ' Qual é a fórmula da área de um triângulo?',
+    'Área = (base x altura)/2'
 )
