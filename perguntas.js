@@ -30,6 +30,6 @@ criaCartao(
 
 criaCartao(
     'CURIOSIDADES',
-    'Voce sabia que as festas juninas nas cidades são inspiradas em tradições do campo?',
-    'AQuadrilhas, roupas caipiras e até as danças vieram da vida rural e foram adaptadas para o ambiente urbano.'
+    'Você sabia que as festas juninas nas cidades são inspiradas em tradições do campo?',
+    'As quadrilhas, roupas caipiras e até as danças vieram da vida rural e foram adaptadas para o ambiente urbano.'
 )
