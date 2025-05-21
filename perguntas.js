@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'QUÍMICA',
-    '📌 Curiosidade',
+    'Curiosidade',
     'trânsito intenso e as indústrias aumentam a poluição do ar e sonora nas áreas urbanas.´
 
 8'
