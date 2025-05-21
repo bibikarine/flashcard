@@ -6,8 +6,10 @@ criaCartao(
 
 criaCartao(
     'QUÍMICA',
-    'Atualmente, quantos elementos químicos a tabela periódica possui?',
-    '118'
+    '📌 Curiosidade',
+    'trânsito intenso e as indústrias aumentam a poluição do ar e sonora nas áreas urbanas.´
+
+8'
 )
 
 criaCartao(
