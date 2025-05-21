@@ -6,10 +6,8 @@ criaCartao(
 
 criaCartao(
     'QUÍMICA',
-    'Curiosidade',
-    'trânsito intenso e as indústrias aumentam a poluição do ar e sonora nas áreas urbanas.´
-
-8'
+    'Qual é a principal atividade econômica do campo?',
+    'Agricultura e pecuária.'
 )
 
 criaCartao(
