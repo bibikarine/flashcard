@@ -1,6 +1,6 @@
 criaCartao(
     'CONHECIMENTOS GERAIS',
-    'Qual é a principal atividade econômica do campo”?',
+    'Qual é a principal atividade econômica do campo?',
     'Agricultura e pecuária.'
 )
 
