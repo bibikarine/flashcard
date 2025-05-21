@@ -1,7 +1,7 @@
 criaCartao(
     'CONHECIMENTOS GERAIS',
-    'De quem é a famosa frase “Penso, logo existo”?',
-    'Descartes.'
+    'Qual é a principal atividade econômica do campo”?',
+    'Agricultura e pecuária.'
 )
 
 criaCartao(
